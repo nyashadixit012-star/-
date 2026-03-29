@@ -13,7 +13,7 @@ I love creating beautiful and functional websites. This is my personal portfolio
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3
-- JavaScript (coming soon!)
+- JavaScript 
 
 ## 📬 Contact Me
 - Email: nyashadixit012@gmail.com
