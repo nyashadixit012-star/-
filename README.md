@@ -18,7 +18,7 @@ I love creating beautiful and functional websites. This is my personal portfolio
 ## 📬 Contact Me
 - Email: nyashadixit012@gmail.com
 - LinkedIn: https://www.linkedin.com/in/nyasa-dixit-4285bb392
-- GitHub: 
+- GitHub: https://nyashadixit012-star.github.io/-/
 
 ---
 Built with  using HTML & CSS
