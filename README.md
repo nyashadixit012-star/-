@@ -17,7 +17,7 @@ I love creating beautiful and functional websites. This is my personal portfolio
 
 ## 📂 Projects
 ✥ Portfolio Website
-✥ (Yaha apne aur projects add kar sakti ho)
+
 
 ## 📬 Contact Me
 ✥ Email: nyashadixit012@gmail.com  
